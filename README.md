@@ -8,6 +8,9 @@ Tested on Ubuntu 18.04 and a single NVIDIA GPU.
 ## Training 
 1. Execute `python3 train.py` script to start the PPO training loop.
 
+## Render on remote display server
+To render the game screen on a remote display (eg. if using Google Colab), execute the instructions in `display_server.sh`. For more information, check out [this](https://github.com/google-research/football/issues/34) thread.
+
 ### Acknowledgements
 1. [PPO-Keras](https://github.com/LuEE-C/PPO-Keras)
 2. [PPO-PyTorch](https://github.com/colinskow/move37/tree/master/ppo)
