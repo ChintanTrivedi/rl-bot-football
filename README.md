@@ -1,5 +1,5 @@
 # RL agent for the Google Football environment
-This code implements a bare-bones version of the Proximal Policy Optimization (PPO) algorithm for the purpose of training an AI bot to play the game of football. The tutorial series for learning step-by-step implementation of this algorithm can be found in [video format here](https://www.youtube.com/watch?v=SWllbdcrKLI) or in a [blogpost here](https://medium.com/@chintan.t93). 
+This code implements a bare-bones version of the Proximal Policy Optimization (PPO) algorithm for the purpose of training an AI bot to play the game of football. The tutorial series for learning step-by-step implementation of this algorithm can be found in [video format here](https://www.youtube.com/watch?v=SWllbdcrKLI) or in a [blogpost here](https://towardsdatascience.com/proximal-policy-optimization-tutorial-part-1-actor-critic-method-d53f9afffbf6?gi=34377c40b4cd). 
 
 ## Setup instructions
 Tested on Ubuntu 18.04 and a single NVIDIA GPU.
